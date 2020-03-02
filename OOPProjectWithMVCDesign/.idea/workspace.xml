@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9264668f-7efa-4d20-9bfc-6192aeff0a15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="OOPProjectWithMVCDesign" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\[ClassFile]Semester3\COMP2021\OOPProjectWithMVCDesign\OOPProjectWithMVCDesign.iml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UUwBfUZRymzNpM0zSKncLXEGhk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15285996" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hk.edu.polyu.comp.comp2021.jungle" />
+      <recent name="hk.edu.polyu.comp.comp2021.jungle.view" />
+      <recent name="hk.edu.polyu.comp.comp2021.jungle.model" />
+      <recent name="hk.edu.polyu.comp.comp2021.jungle.UI" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\[ClassFile]Semester3\COMP2021\OOPProjectWithMVCDesign\src" />
+      <recent name="D:\[ClassFile]Semester3\COMP2021\OOPProjectWithMVCDesign\src\hk\edu\polyu\comp\comp2021\jungle\UI" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Start">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hk.edu.polyu.comp.comp2021.jungle.Start" />
+      <module name="OOPProjectWithMVCDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hk.edu.polyu.comp.comp2021.jungle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheJungleGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hk.edu.polyu.comp.comp2021.jungle.view.TheJungleGame" />
+      <module name="OOPProjectWithMVCDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hk.edu.polyu.comp.comp2021.jungle.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+        <item itemvalue="Application.TheJungleGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9264668f-7efa-4d20-9bfc-6192aeff0a15" name="Default Changelist" comment="" />
+      <created>1575424347738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575424347738</updated>
+      <workItem from="1575424351831" duration="25003000" />
+      <workItem from="1575451777791" duration="1504000" />
+      <workItem from="1575453330271" duration="68000" />
+      <workItem from="1575466397728" duration="1426000" />
+      <workItem from="1575469029593" duration="115000" />
+      <workItem from="1575469307232" duration="803000" />
+      <workItem from="1575515067103" duration="337000" />
+      <workItem from="1575515415295" duration="130000" />
+      <workItem from="1575515556571" duration="256000" />
+      <workItem from="1575515826109" duration="176000" />
+      <workItem from="1575516013846" duration="15085000" />
+      <workItem from="1575537635618" duration="1532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="757" y="304" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1575453335110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="757" y="304" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1575453335110" />
+    <state x="156" y="114" width="1350" height="638" key="DiffContextDialog" timestamp="1575452712746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="156" y="114" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1575452712746" />
+    <state x="543" y="153" key="FileChooserDialogImpl" timestamp="1575453206000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575453206000" />
+    <state width="1470" height="233" key="GridCell.Tab.0.bottom" timestamp="1575537487944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1470" height="233" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575537487944" />
+    <state width="1470" height="233" key="GridCell.Tab.0.center" timestamp="1575537487944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1470" height="233" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575537487944" />
+    <state width="1470" height="233" key="GridCell.Tab.0.left" timestamp="1575537487944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1470" height="233" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575537487944" />
+    <state width="1470" height="233" key="GridCell.Tab.0.right" timestamp="1575537487944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1470" height="233" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575537487944" />
+    <state width="1470" height="233" key="GridCell.Tab.1.bottom" timestamp="1575537487944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1470" height="233" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575537487944" />
+    <state width="1470" height="233" key="GridCell.Tab.1.center" timestamp="1575537487944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1470" height="233" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1575537487944" />
+    <state width="1470" height="233" key="GridCell.Tab.1.left" timestamp="1575537487944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1470" height="233" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1575537487944" />
+    <state width="1470" height="233" key="GridCell.Tab.1.right" timestamp="1575537487944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1470" height="233" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1575537487944" />
+    <state x="154" y="0" width="1039" height="824" key="SettingsEditor" timestamp="1575516001665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="154" y="0" width="1039" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575516001665" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1575537637362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1575537637362" />
+    <state x="410" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1575452405624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1575452405624" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
