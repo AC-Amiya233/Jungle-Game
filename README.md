@@ -1,2 +1,2 @@
-# OOP-Practice-Project
-A final practice project for COMP2021
+# Jungle Game
+This is a OOP practice project for COMP2021
